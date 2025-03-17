@@ -8,7 +8,7 @@ Project based on [noanonoa work](https://github.com/noanonoa/flappy-bird):
 
 ## GETTING STARTED
 
-First, install the Bun runtime:
+First, install the Bun Runtime:
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
