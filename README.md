@@ -64,8 +64,10 @@ Scan the QRCode in the terminal with your LynxExplorer App to see the result.
  * add a running time to display
  * make the game web responsive
 
-# GAMEPLAN
 ---
+
+# GAMEPLAN
+
 ## HTML
  - [X] container for gaming screen
  - [X] game title
