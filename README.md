@@ -29,8 +29,8 @@ bun run dev
 Scan the QRCode in the terminal with your LynxExplorer App to see the result.
 
 # WIREFRAME  
-![wireframe for game screen](/public/assets/img/001-wireframe.png "Game Screen")  
-![wireframe for collision mechanics](/public/assets/img/002-wireframe.png "Collision Mechanics")
+![wireframe for game screen](/src/assets/img/001-wireframe.png "Game Screen")  
+![wireframe for collision mechanics](/src/assets/img/002-wireframe.png "Collision Mechanics")
 
 # TECHNOLOGY
  * HTML/CSS on canvas
@@ -38,14 +38,14 @@ Scan the QRCode in the terminal with your LynxExplorer App to see the result.
 
 # ASSETS
 ### IMAGES
-![flappy bird theme](/public/assets/img/og-theme.png)  
+![flappy bird theme](/src/assets/img/og-theme.png)  
 (src: google images)  
-![flappy bird theme v2](/public/assets/img/og-theme-2.png)  
+![flappy bird theme v2](/src/assets/img/og-theme-2.png)  
 (src: https://www.spriters-resource.com/fullview/59894/)  
 ### AUDIO
 (src: https://www.sounds-resource.com/mobile/flappybird/sound/5309/)
 ### SCREENSHOT
-![flappy bird screenshot](/public/assets/img/001-screenshot.png)
+![flappy bird screenshot](/src/assets/img/001-screenshot.png)
 
 # MVP
  * start the game with a 'press button'
